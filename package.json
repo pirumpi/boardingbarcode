@@ -1,0 +1,22 @@
+{
+  "name": "boardingbarcode",
+  "version": "1.0.0",
+  "description": "Generate an svg of a boarding pass barcode. ",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pirumpi/boardingbarcode.git"
+  },
+  "keywords": [
+    "boardingpass"
+  ],
+  "author": "Carlos Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pirumpi/boardingbarcode/issues"
+  },
+  "homepage": "https://github.com/pirumpi/boardingbarcode#readme"
+}
