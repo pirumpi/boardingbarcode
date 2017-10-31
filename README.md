@@ -1,5 +1,5 @@
 # boardingbarcode
-Generate an SVG boarding pass barcode using Javascript from Nodejs or the browser. 
+Generate an SVG boarding pass barcode using Nodejs. 
 
 ## Example
 
