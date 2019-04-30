@@ -1,6 +1,6 @@
 {
   "name": "boardingbarcode",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Generate an svg of a boarding pass barcode. ",
   "main": "lib/index.js",
   "scripts": {
